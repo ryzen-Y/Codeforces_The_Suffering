@@ -78,3 +78,21 @@ Codeforces_and_Suffering/
 <!-- START_PROBLEMS -->
 
 <!-- END_PROBLEMS -->
+
+# 🤝 Contributions
+
+This repository is maintained for learning and practice. Suggestions and improvements are always welcome.
+
+---
+
+# ⭐ Support
+
+If you found this repository useful, consider giving it a ⭐.
+
+---
+
+# 👨‍💻 Author
+
+**Mirza Aliun Tauhid**
+
+GitHub: https://github.com/ryzen-Y
