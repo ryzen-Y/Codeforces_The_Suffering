@@ -1,0 +1,42 @@
+name: Auto Update README
+
+on:
+  push:
+    paths:
+      - "codeforces/**"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Run update script
+        run: python update_readme.py
+
+      - name: Commit README if changed
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Auto update README"
+            git push
+          fi
