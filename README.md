@@ -17,7 +17,7 @@ A collection of my **Data Structures & Algorithms (DSA)** and **competitive prog
 
 | Platform   | Solved                                  |
 | ---------- | --------------------------------------- |
-| Codeforces | <!-- CF_COUNT -->7<!-- END_CF_COUNT --> |
+| Codeforces | <!-- CF_COUNT -->9<!-- END_CF_COUNT --> |
 
 ---
 
@@ -61,7 +61,7 @@ Codeforces_and_Suffering/
 
 | Rating       | Solved                                                  |
 | ------------ | ------------------------------------------------------- |
-| 🟢 800–1000  | <!-- RATING_800_1000 -->6<!-- END_RATING_800_1000 -->   |
+| 🟢 800–1000  | <!-- RATING_800_1000 -->8<!-- END_RATING_800_1000 -->   |
 | 🟢 1100–1300 | <!-- RATING_1100_1300 -->0<!-- END_RATING_1100_1300 --> |
 | 🟡 1400–1600 | <!-- RATING_1400_1600 -->0<!-- END_RATING_1400_1600 --> |
 | 🟠 1700–1900 | <!-- RATING_1700_1900 -->1<!-- END_RATING_1700_1900 --> |
@@ -82,8 +82,10 @@ Codeforces_and_Suffering/
 | 71A | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | 800 | [Python](codeforces/71A.py) |
 | 112A | [Petya and Strings](https://codeforces.com/problemset/problem/112/A) | 800 | [Python](codeforces/112A.py) |
 | 213A | [Game](https://codeforces.com/problemset/problem/213/A) | 1700 | [Python](codeforces/213A.py) |
+| 236A | [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | 800 | [Python](codeforces/236A.py) |
 | 263A | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | 800 | [Python](codeforces/263A.py) |
 | 282A | [Bit++](https://codeforces.com/problemset/problem/282/A) | 800 | [Python](codeforces/282A.py) |
+| 339A | [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | 800 | [Python](codeforces/339A.py) |
 
 <!-- END_PROBLEMS -->
 
