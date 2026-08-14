@@ -17,7 +17,7 @@ A collection of my **Data Structures & Algorithms (DSA)** and **competitive prog
 
 | Platform   | Solved                                  |
 | ---------- | --------------------------------------- |
-| Codeforces | <!-- CF_COUNT -->14<!-- END_CF_COUNT --> |
+| Codeforces | <!-- CF_COUNT -->19<!-- END_CF_COUNT --> |
 
 ---
 
@@ -61,7 +61,7 @@ Codeforces_and_Suffering/
 
 | Rating       | Solved                                                  |
 | ------------ | ------------------------------------------------------- |
-| 🟢 800–1000  | <!-- RATING_800_1000 -->13<!-- END_RATING_800_1000 -->   |
+| 🟢 800–1000  | <!-- RATING_800_1000 -->18<!-- END_RATING_800_1000 -->   |
 | 🟢 1100–1300 | <!-- RATING_1100_1300 -->0<!-- END_RATING_1100_1300 --> |
 | 🟡 1400–1600 | <!-- RATING_1400_1600 -->0<!-- END_RATING_1400_1600 --> |
 | 🟠 1700–1900 | <!-- RATING_1700_1900 -->1<!-- END_RATING_1700_1900 --> |
@@ -78,8 +78,11 @@ Codeforces_and_Suffering/
 <!-- START_PROBLEMS -->
 
 | 4A | [Watermelon](https://codeforces.com/problemset/problem/4/A) | 800 | [Python](codeforces/4A.py) |
+| 41A | [Translation](https://codeforces.com/problemset/problem/41/A) | 800 | [Python](codeforces/41A.py) |
 | 50A | [Domino piling](https://codeforces.com/problemset/problem/50/A) | 800 | [Python](codeforces/50A.py) |
+| 59A | [Word](https://codeforces.com/problemset/problem/59/A) | 800 | [Python](codeforces/59A.py) |
 | 71A | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | 800 | [Python](codeforces/71A.py) |
+| 110A | [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | 800 | [Python](codeforces/110A.py) |
 | 112A | [Petya and Strings](https://codeforces.com/problemset/problem/112/A) | 800 | [Python](codeforces/112A.py) |
 | 213A | [Game](https://codeforces.com/problemset/problem/213/A) | 1700 | [Python](codeforces/213A.py) |
 | 236A | [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | 800 | [Python](codeforces/236A.py) |
@@ -90,7 +93,9 @@ Codeforces_and_Suffering/
 | 339A | [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | 800 | [Python](codeforces/339A.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | 800 | [Python](codeforces/546A.py) |
 | 617A | [Elephant](https://codeforces.com/problemset/problem/617/A) | 800 | [Python](codeforces/617A.py) |
+| 734A | [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | 800 | [Python](codeforces/734A.py) |
 | 791A | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | 800 | [Python](codeforces/791A.py) |
+| 977A | [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | 800 | [Python](codeforces/977A.py) |
 
 <!-- END_PROBLEMS -->
 
