@@ -61,8 +61,8 @@ Codeforces_and_Suffering/
 
 | Rating       | Solved                                                  |
 | ------------ | ------------------------------------------------------- |
-| 🟢 800–1000  | <!-- RATING_800_1000 -->22<!-- END_RATING_800_1000 -->   |
-| 🟢 1100–1300 | <!-- RATING_1100_1300 -->1<!-- END_RATING_1100_1300 --> |
+| 🟢 800–1000  | <!-- RATING_800_1000 -->23<!-- END_RATING_800_1000 -->   |
+| 🟢 1100–1300 | <!-- RATING_1100_1300 -->0<!-- END_RATING_1100_1300 --> |
 | 🟡 1400–1600 | <!-- RATING_1400_1600 -->0<!-- END_RATING_1400_1600 --> |
 | 🟠 1700–1900 | <!-- RATING_1700_1900 -->1<!-- END_RATING_1700_1900 --> |
 | 🔴 2000+     | <!-- RATING_2000_PLUS -->0<!-- END_RATING_2000_PLUS --> |
@@ -86,11 +86,11 @@ Codeforces_and_Suffering/
 | 112A | [Petya and Strings](https://codeforces.com/problemset/problem/112/A) | 800 | [Python](codeforces/112A.py) |
 | 116A | [Tram](https://codeforces.com/problemset/problem/116/A) | 800 | [Python](codeforces/116A.py) |
 | 213A | [Game](https://codeforces.com/problemset/problem/213/A) | 1700 | [Python](codeforces/213A.py) |
-| 217A | [Ice Skating](https://codeforces.com/problemset/problem/217/A) | 1200 | [Python](codeforces/217A.py) |
 | 236A | [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | 800 | [Python](codeforces/236A.py) |
 | 263A | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | 800 | [Python](codeforces/263A.py) |
 | 266A | [Stones on the Table](https://codeforces.com/problemset/problem/266/A) | 800 | [Python](codeforces/266A.py) |
 | 266B | [Queue at the School](https://codeforces.com/problemset/problem/266/B) | 800 | [Python](codeforces/266B.py) |
+| 271A | [Beautiful Year](https://codeforces.com/problemset/problem/271/A) | 800 | [Python](codeforces/271A.py) |
 | 281A | [Word Capitalization](https://codeforces.com/problemset/problem/281/A) | 800 | [Python](codeforces/281A.py) |
 | 282A | [Bit++](https://codeforces.com/problemset/problem/282/A) | 800 | [Python](codeforces/282A.py) |
 | 339A | [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | 800 | [Python](codeforces/339A.py) |
