@@ -17,7 +17,7 @@ A collection of my **Data Structures & Algorithms (DSA)** and **competitive prog
 
 | Platform   | Solved                                  |
 | ---------- | --------------------------------------- |
-| Codeforces | <!-- CF_COUNT -->19<!-- END_CF_COUNT --> |
+| Codeforces | <!-- CF_COUNT -->20<!-- END_CF_COUNT --> |
 
 ---
 
@@ -61,7 +61,7 @@ Codeforces_and_Suffering/
 
 | Rating       | Solved                                                  |
 | ------------ | ------------------------------------------------------- |
-| 🟢 800–1000  | <!-- RATING_800_1000 -->18<!-- END_RATING_800_1000 -->   |
+| 🟢 800–1000  | <!-- RATING_800_1000 -->19<!-- END_RATING_800_1000 -->   |
 | 🟢 1100–1300 | <!-- RATING_1100_1300 -->0<!-- END_RATING_1100_1300 --> |
 | 🟡 1400–1600 | <!-- RATING_1400_1600 -->0<!-- END_RATING_1400_1600 --> |
 | 🟠 1700–1900 | <!-- RATING_1700_1900 -->1<!-- END_RATING_1700_1900 --> |
@@ -93,6 +93,7 @@ Codeforces_and_Suffering/
 | 339A | [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | 800 | [Python](codeforces/339A.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | 800 | [Python](codeforces/546A.py) |
 | 617A | [Elephant](https://codeforces.com/problemset/problem/617/A) | 800 | [Python](codeforces/617A.py) |
+| 677A | [Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | 800 | [Python](codeforces/677A.py) |
 | 734A | [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | 800 | [Python](codeforces/734A.py) |
 | 791A | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | 800 | [Python](codeforces/791A.py) |
 | 977A | [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | 800 | [Python](codeforces/977A.py) |
