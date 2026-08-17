@@ -17,7 +17,7 @@ A collection of my **Data Structures & Algorithms (DSA)** and **competitive prog
 
 | Platform   | Solved                                  |
 | ---------- | --------------------------------------- |
-| Codeforces | <!-- CF_COUNT -->24<!-- END_CF_COUNT --> |
+| Codeforces | <!-- CF_COUNT -->26<!-- END_CF_COUNT --> |
 
 ---
 
@@ -61,7 +61,7 @@ Codeforces_and_Suffering/
 
 | Rating       | Solved                                                  |
 | ------------ | ------------------------------------------------------- |
-| 🟢 800–1000  | <!-- RATING_800_1000 -->23<!-- END_RATING_800_1000 -->   |
+| 🟢 800–1000  | <!-- RATING_800_1000 -->25<!-- END_RATING_800_1000 -->   |
 | 🟢 1100–1300 | <!-- RATING_1100_1300 -->0<!-- END_RATING_1100_1300 --> |
 | 🟡 1400–1600 | <!-- RATING_1400_1600 -->0<!-- END_RATING_1400_1600 --> |
 | 🟠 1700–1900 | <!-- RATING_1700_1900 -->1<!-- END_RATING_1700_1900 --> |
@@ -94,6 +94,8 @@ Codeforces_and_Suffering/
 | 281A | [Word Capitalization](https://codeforces.com/problemset/problem/281/A) | 800 | [Python](codeforces/281A.py) |
 | 282A | [Bit++](https://codeforces.com/problemset/problem/282/A) | 800 | [Python](codeforces/282A.py) |
 | 339A | [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | 800 | [Python](codeforces/339A.py) |
+| 467A | [George and Accommodation](https://codeforces.com/problemset/problem/467/A) | 800 | [Python](codeforces/467A.py) |
+| 486A | [Calculating Function](https://codeforces.com/problemset/problem/486/A) | 800 | [Python](codeforces/486A.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | 800 | [Python](codeforces/546A.py) |
 | 617A | [Elephant](https://codeforces.com/problemset/problem/617/A) | 800 | [Python](codeforces/617A.py) |
 | 677A | [Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | 800 | [Python](codeforces/677A.py) |
