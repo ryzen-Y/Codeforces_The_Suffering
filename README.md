@@ -17,7 +17,7 @@ A collection of my **Data Structures & Algorithms (DSA)** and **competitive prog
 
 | Platform   | Solved                                  |
 | ---------- | --------------------------------------- |
-| Codeforces | <!-- CF_COUNT -->29<!-- END_CF_COUNT --> |
+| Codeforces | <!-- CF_COUNT -->30<!-- END_CF_COUNT --> |
 
 ---
 
@@ -61,7 +61,7 @@ Codeforces_and_Suffering/
 
 | Rating       | Solved                                                  |
 | ------------ | ------------------------------------------------------- |
-| 🟢 800–1000  | <!-- RATING_800_1000 -->28<!-- END_RATING_800_1000 -->   |
+| 🟢 800–1000  | <!-- RATING_800_1000 -->29<!-- END_RATING_800_1000 -->   |
 | 🟢 1100–1300 | <!-- RATING_1100_1300 -->0<!-- END_RATING_1100_1300 --> |
 | 🟡 1400–1600 | <!-- RATING_1400_1600 -->0<!-- END_RATING_1400_1600 --> |
 | 🟠 1700–1900 | <!-- RATING_1700_1900 -->1<!-- END_RATING_1700_1900 --> |
@@ -81,6 +81,7 @@ Codeforces_and_Suffering/
 | 41A | [Translation](https://codeforces.com/problemset/problem/41/A) | 800 | [Python](codeforces/41A.py) |
 | 50A | [Domino piling](https://codeforces.com/problemset/problem/50/A) | 800 | [Python](codeforces/50A.py) |
 | 59A | [Word](https://codeforces.com/problemset/problem/59/A) | 800 | [Python](codeforces/59A.py) |
+| 61A | [Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A) | 800 | [Python](codeforces/61A.py) |
 | 71A | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | 800 | [Python](codeforces/71A.py) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | 800 | [Python](codeforces/110A.py) |
 | 112A | [Petya and Strings](https://codeforces.com/problemset/problem/112/A) | 800 | [Python](codeforces/112A.py) |
