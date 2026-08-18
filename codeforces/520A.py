@@ -1,3 +1,4 @@
 n = int(input())
-str = input().lower()
-print(len(set(str)))
+s = input().lower()
+
+print("YES" if len(set(s)) == 26 else "NO")
