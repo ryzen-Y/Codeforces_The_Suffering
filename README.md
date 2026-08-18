@@ -17,7 +17,7 @@ A collection of my **Data Structures & Algorithms (DSA)** and **competitive prog
 
 | Platform   | Solved                                  |
 | ---------- | --------------------------------------- |
-| Codeforces | <!-- CF_COUNT -->30<!-- END_CF_COUNT --> |
+| Codeforces | <!-- CF_COUNT -->32<!-- END_CF_COUNT --> |
 
 ---
 
@@ -61,7 +61,7 @@ Codeforces_and_Suffering/
 
 | Rating       | Solved                                                  |
 | ------------ | ------------------------------------------------------- |
-| 🟢 800–1000  | <!-- RATING_800_1000 -->29<!-- END_RATING_800_1000 -->   |
+| 🟢 800–1000  | <!-- RATING_800_1000 -->31<!-- END_RATING_800_1000 -->   |
 | 🟢 1100–1300 | <!-- RATING_1100_1300 -->0<!-- END_RATING_1100_1300 --> |
 | 🟡 1400–1600 | <!-- RATING_1400_1600 -->0<!-- END_RATING_1400_1600 --> |
 | 🟠 1700–1900 | <!-- RATING_1700_1900 -->1<!-- END_RATING_1700_1900 --> |
@@ -89,6 +89,7 @@ Codeforces_and_Suffering/
 | 136A | [Presents](https://codeforces.com/problemset/problem/136/A) | 800 | [Python](codeforces/136A.py) |
 | 200B | [Drinks](https://codeforces.com/problemset/problem/200/B) | 800 | [Python](codeforces/200B.py) |
 | 213A | [Game](https://codeforces.com/problemset/problem/213/A) | 1700 | [Python](codeforces/213A.py) |
+| 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) | 800 | [Python](codeforces/228A.py) |
 | 236A | [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | 800 | [Python](codeforces/236A.py) |
 | 263A | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | 800 | [Python](codeforces/263A.py) |
 | 266A | [Stones on the Table](https://codeforces.com/problemset/problem/266/A) | 800 | [Python](codeforces/266A.py) |
@@ -103,6 +104,7 @@ Codeforces_and_Suffering/
 | 546A | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | 800 | [Python](codeforces/546A.py) |
 | 617A | [Elephant](https://codeforces.com/problemset/problem/617/A) | 800 | [Python](codeforces/617A.py) |
 | 677A | [Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | 800 | [Python](codeforces/677A.py) |
+| 705A | [Hulk](https://codeforces.com/problemset/problem/705/A) | 800 | [Python](codeforces/705A.py) |
 | 734A | [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | 800 | [Python](codeforces/734A.py) |
 | 791A | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | 800 | [Python](codeforces/791A.py) |
 | 977A | [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | 800 | [Python](codeforces/977A.py) |
