@@ -17,7 +17,7 @@ A collection of my **Data Structures & Algorithms (DSA)** and **competitive prog
 
 | Platform   | Solved                                  |
 | ---------- | --------------------------------------- |
-| Codeforces | <!-- CF_COUNT -->33<!-- END_CF_COUNT --> |
+| Codeforces | <!-- CF_COUNT -->34<!-- END_CF_COUNT --> |
 
 ---
 
@@ -61,7 +61,7 @@ Codeforces_and_Suffering/
 
 | Rating       | Solved                                                  |
 | ------------ | ------------------------------------------------------- |
-| 🟢 800–1000  | <!-- RATING_800_1000 -->32<!-- END_RATING_800_1000 -->   |
+| 🟢 800–1000  | <!-- RATING_800_1000 -->33<!-- END_RATING_800_1000 -->   |
 | 🟢 1100–1300 | <!-- RATING_1100_1300 -->0<!-- END_RATING_1100_1300 --> |
 | 🟡 1400–1600 | <!-- RATING_1400_1600 -->0<!-- END_RATING_1400_1600 --> |
 | 🟠 1700–1900 | <!-- RATING_1700_1900 -->1<!-- END_RATING_1700_1900 --> |
@@ -110,6 +110,7 @@ Codeforces_and_Suffering/
 | 791A | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | 800 | [Python](codeforces/791A.py) |
 | 977A | [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | 800 | [Python](codeforces/977A.py) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | 800 | [Python](codeforces/1030A.py) |
+| 1328A | [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) | 800 | [Python](codeforces/1328A.py) |
 
 <!-- END_PROBLEMS -->
 
