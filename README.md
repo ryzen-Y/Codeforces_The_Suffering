@@ -17,7 +17,7 @@ A collection of my **Data Structures & Algorithms (DSA)** and **competitive prog
 
 | Platform   | Solved                                  |
 | ---------- | --------------------------------------- |
-| Codeforces | <!-- CF_COUNT -->34<!-- END_CF_COUNT --> |
+| Codeforces | <!-- CF_COUNT -->37<!-- END_CF_COUNT --> |
 
 ---
 
@@ -61,7 +61,7 @@ Codeforces_and_Suffering/
 
 | Rating       | Solved                                                  |
 | ------------ | ------------------------------------------------------- |
-| 🟢 800–1000  | <!-- RATING_800_1000 -->33<!-- END_RATING_800_1000 -->   |
+| 🟢 800–1000  | <!-- RATING_800_1000 -->36<!-- END_RATING_800_1000 -->   |
 | 🟢 1100–1300 | <!-- RATING_1100_1300 -->0<!-- END_RATING_1100_1300 --> |
 | 🟡 1400–1600 | <!-- RATING_1400_1600 -->0<!-- END_RATING_1400_1600 --> |
 | 🟠 1700–1900 | <!-- RATING_1700_1900 -->1<!-- END_RATING_1700_1900 --> |
@@ -87,6 +87,7 @@ Codeforces_and_Suffering/
 | 112A | [Petya and Strings](https://codeforces.com/problemset/problem/112/A) | 800 | [Python](codeforces/112A.py) |
 | 116A | [Tram](https://codeforces.com/problemset/problem/116/A) | 800 | [Python](codeforces/116A.py) |
 | 136A | [Presents](https://codeforces.com/problemset/problem/136/A) | 800 | [Python](codeforces/136A.py) |
+| 144A | [Arrival of the General](https://codeforces.com/problemset/problem/144/A) | 800 | [Python](codeforces/144A.py) |
 | 200B | [Drinks](https://codeforces.com/problemset/problem/200/B) | 800 | [Python](codeforces/200B.py) |
 | 213A | [Game](https://codeforces.com/problemset/problem/213/A) | 1700 | [Python](codeforces/213A.py) |
 | 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) | 800 | [Python](codeforces/228A.py) |
@@ -100,6 +101,7 @@ Codeforces_and_Suffering/
 | 339A | [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | 800 | [Python](codeforces/339A.py) |
 | 344A | [Magnets](https://codeforces.com/problemset/problem/344/A) | 800 | [Python](codeforces/344A.py) |
 | 467A | [George and Accommodation](https://codeforces.com/problemset/problem/467/A) | 800 | [Python](codeforces/467A.py) |
+| 469A | [I Wanna Be the Guy](https://codeforces.com/problemset/problem/469/A) | 800 | [Python](codeforces/469A.py) |
 | 486A | [Calculating Function](https://codeforces.com/problemset/problem/486/A) | 800 | [Python](codeforces/486A.py) |
 | 520A | [Pangram](https://codeforces.com/problemset/problem/520/A) | 800 | [Python](codeforces/520A.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | 800 | [Python](codeforces/546A.py) |
@@ -109,6 +111,7 @@ Codeforces_and_Suffering/
 | 734A | [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | 800 | [Python](codeforces/734A.py) |
 | 791A | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | 800 | [Python](codeforces/791A.py) |
 | 977A | [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | 800 | [Python](codeforces/977A.py) |
+| 996A | [Hit the Lottery](https://codeforces.com/problemset/problem/996/A) | 800 | [Python](codeforces/996A.py) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | 800 | [Python](codeforces/1030A.py) |
 | 1328A | [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) | 800 | [Python](codeforces/1328A.py) |
 
