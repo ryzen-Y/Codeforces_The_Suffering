@@ -17,7 +17,7 @@ A collection of my **Data Structures & Algorithms (DSA)** and **competitive prog
 
 | Platform   | Solved                                  |
 | ---------- | --------------------------------------- |
-| Codeforces | <!-- CF_COUNT -->44<!-- END_CF_COUNT --> |
+| Codeforces | <!-- CF_COUNT -->45<!-- END_CF_COUNT --> |
 
 ---
 
@@ -61,7 +61,7 @@ Codeforces_and_Suffering/
 
 | Rating       | Solved                                                  |
 | ------------ | ------------------------------------------------------- |
-| 🟢 800–1000  | <!-- RATING_800_1000 -->43<!-- END_RATING_800_1000 -->   |
+| 🟢 800–1000  | <!-- RATING_800_1000 -->44<!-- END_RATING_800_1000 -->   |
 | 🟢 1100–1300 | <!-- RATING_1100_1300 -->0<!-- END_RATING_1100_1300 --> |
 | 🟡 1400–1600 | <!-- RATING_1400_1600 -->0<!-- END_RATING_1400_1600 --> |
 | 🟠 1700–1900 | <!-- RATING_1700_1900 -->1<!-- END_RATING_1700_1900 --> |
@@ -89,6 +89,7 @@ Codeforces_and_Suffering/
 | 136A | [Presents](https://codeforces.com/problemset/problem/136/A) | 800 | [Python](codeforces/136A.py) |
 | 144A | [Arrival of the General](https://codeforces.com/problemset/problem/144/A) | 800 | [Python](codeforces/144A.py) |
 | 148A | [Insomnia cure](https://codeforces.com/problemset/problem/148/A) | 800 | [Python](codeforces/148A.py) |
+| 155A | [I_love_\%username\%](https://codeforces.com/problemset/problem/155/A) | 800 | [Python](codeforces/155A.py) |
 | 200B | [Drinks](https://codeforces.com/problemset/problem/200/B) | 800 | [Python](codeforces/200B.py) |
 | 213A | [Game](https://codeforces.com/problemset/problem/213/A) | 1700 | [Python](codeforces/213A.py) |
 | 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) | 800 | [Python](codeforces/228A.py) |
