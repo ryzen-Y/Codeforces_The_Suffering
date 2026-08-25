@@ -17,7 +17,7 @@ A collection of my **Data Structures & Algorithms (DSA)** and **competitive prog
 
 | Platform   | Solved                                  |
 | ---------- | --------------------------------------- |
-| Codeforces | <!-- CF_COUNT -->45<!-- END_CF_COUNT --> |
+| Codeforces | <!-- CF_COUNT -->46<!-- END_CF_COUNT --> |
 
 ---
 
@@ -61,7 +61,7 @@ Codeforces_and_Suffering/
 
 | Rating       | Solved                                                  |
 | ------------ | ------------------------------------------------------- |
-| 🟢 800–1000  | <!-- RATING_800_1000 -->44<!-- END_RATING_800_1000 -->   |
+| 🟢 800–1000  | <!-- RATING_800_1000 -->45<!-- END_RATING_800_1000 -->   |
 | 🟢 1100–1300 | <!-- RATING_1100_1300 -->0<!-- END_RATING_1100_1300 --> |
 | 🟡 1400–1600 | <!-- RATING_1400_1600 -->0<!-- END_RATING_1400_1600 --> |
 | 🟠 1700–1900 | <!-- RATING_1700_1900 -->1<!-- END_RATING_1700_1900 --> |
@@ -119,6 +119,7 @@ Codeforces_and_Suffering/
 | 977A | [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | 800 | [Python](codeforces/977A.py) |
 | 996A | [Hit the Lottery](https://codeforces.com/problemset/problem/996/A) | 800 | [Python](codeforces/996A.py) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | 800 | [Python](codeforces/1030A.py) |
+| 1154A | [Restoring Three Numbers](https://codeforces.com/problemset/problem/1154/A) | 800 | [Python](codeforces/1154A.py) |
 | 1328A | [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) | 800 | [Python](codeforces/1328A.py) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/problemset/problem/1335/A) | 800 | [Python](codeforces/1335A.py) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/problemset/problem/1352/A) | 800 | [Python](codeforces/1352A.py) |
