@@ -17,7 +17,7 @@ A collection of my **Data Structures & Algorithms (DSA)** and **competitive prog
 
 | Platform   | Solved                                  |
 | ---------- | --------------------------------------- |
-| Codeforces | <!-- CF_COUNT -->47<!-- END_CF_COUNT --> |
+| Codeforces | <!-- CF_COUNT -->48<!-- END_CF_COUNT --> |
 
 ---
 
@@ -61,7 +61,7 @@ Codeforces_and_Suffering/
 
 | Rating       | Solved                                                  |
 | ------------ | ------------------------------------------------------- |
-| 🟢 800–1000  | <!-- RATING_800_1000 -->46<!-- END_RATING_800_1000 -->   |
+| 🟢 800–1000  | <!-- RATING_800_1000 -->47<!-- END_RATING_800_1000 -->   |
 | 🟢 1100–1300 | <!-- RATING_1100_1300 -->0<!-- END_RATING_1100_1300 --> |
 | 🟡 1400–1600 | <!-- RATING_1400_1600 -->0<!-- END_RATING_1400_1600 --> |
 | 🟠 1700–1900 | <!-- RATING_1700_1900 -->1<!-- END_RATING_1700_1900 --> |
@@ -78,6 +78,7 @@ Codeforces_and_Suffering/
 <!-- START_PROBLEMS -->
 
 | 4A | [Watermelon](https://codeforces.com/problemset/problem/4/A) | 800 | [Python](codeforces/4A.py) |
+| 32B | [Borze](https://codeforces.com/problemset/problem/32/B) | 800 | [Python](codeforces/32B.py) |
 | 41A | [Translation](https://codeforces.com/problemset/problem/41/A) | 800 | [Python](codeforces/41A.py) |
 | 50A | [Domino piling](https://codeforces.com/problemset/problem/50/A) | 800 | [Python](codeforces/50A.py) |
 | 59A | [Word](https://codeforces.com/problemset/problem/59/A) | 800 | [Python](codeforces/59A.py) |
