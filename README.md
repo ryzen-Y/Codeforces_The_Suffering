@@ -17,7 +17,7 @@ A collection of my **Data Structures & Algorithms (DSA)** and **competitive prog
 
 | Platform   | Solved                                  |
 | ---------- | --------------------------------------- |
-| Codeforces | <!-- CF_COUNT -->50<!-- END_CF_COUNT --> |
+| Codeforces | <!-- CF_COUNT -->53<!-- END_CF_COUNT --> |
 
 ---
 
@@ -61,7 +61,7 @@ Codeforces_and_Suffering/
 
 | Rating       | Solved                                                  |
 | ------------ | ------------------------------------------------------- |
-| 🟢 800–1000  | <!-- RATING_800_1000 -->49<!-- END_RATING_800_1000 -->   |
+| 🟢 800–1000  | <!-- RATING_800_1000 -->52<!-- END_RATING_800_1000 -->   |
 | 🟢 1100–1300 | <!-- RATING_1100_1300 -->0<!-- END_RATING_1100_1300 --> |
 | 🟡 1400–1600 | <!-- RATING_1400_1600 -->0<!-- END_RATING_1400_1600 --> |
 | 🟠 1700–1900 | <!-- RATING_1700_1900 -->1<!-- END_RATING_1700_1900 --> |
@@ -124,9 +124,12 @@ Codeforces_and_Suffering/
 | 1328A | [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) | 800 | [Python](codeforces/1328A.py) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/problemset/problem/1335/A) | 800 | [Python](codeforces/1335A.py) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/problemset/problem/1352/A) | 800 | [Python](codeforces/1352A.py) |
+| 1560A | [Dislike of Threes](https://codeforces.com/problemset/problem/1560/A) | 800 | [Python](codeforces/1560A.py) |
 | 1760A | [Medium Number](https://codeforces.com/problemset/problem/1760/A) | 800 | [Python](codeforces/1760A.py) |
 | 1791C | [Prepend and Append](https://codeforces.com/problemset/problem/1791/C) | 800 | [Python](codeforces/1791C.py) |
 | 1829B | [Blank Space](https://codeforces.com/problemset/problem/1829/B) | 800 | [Python](codeforces/1829B.py) |
+| 1985A | [Creating Words](https://codeforces.com/problemset/problem/1985/A) | 800 | [Python](codeforces/1985A.py) |
+| 2009A | [Minimize!](https://codeforces.com/problemset/problem/2009/A) | 800 | [Python](codeforces/2009A.py) |
 
 <!-- END_PROBLEMS -->
 
