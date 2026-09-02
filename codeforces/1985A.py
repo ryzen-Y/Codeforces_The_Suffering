@@ -7,3 +7,18 @@ for _ in range(t):
     new_b = a[0] + b[1:]
 
     print(new_a, new_b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
