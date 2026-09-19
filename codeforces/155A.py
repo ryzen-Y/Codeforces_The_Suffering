@@ -18,4 +18,4 @@ for i in lst[1:]:
     if i < minimum:
         minimum = i
 
-print(amazing)
+print(amazing )
