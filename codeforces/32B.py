@@ -13,6 +13,7 @@ while i < len(s):
         new += "1"
         i += 2
 
+    
     elif s[i] == "-" and s[i + 1] == "-":
         new += "2"
         i += 2
